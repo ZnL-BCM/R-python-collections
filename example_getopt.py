@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # getopt module example, feel free to copy the code chunk
 # Note: DO NOT name this script getopt.py or getopt.pyc, or else error will occur
 
